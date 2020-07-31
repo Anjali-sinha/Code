@@ -1,0 +1,26 @@
+Graduate Aptitude Test in Engineering
+*Score / grade validity-	3 years (GATE 2020 onward)
+*Duration-3 hours,65 questions,100 marks
+*Online mode
+*Both MCQs and numerical answer type
+*No limits in number of attempts
+*Eligibility criteria-Final year student or graduate of Bachelor's degree
+*There is no age limit criterion defined by the exam conducting authority to appear in GATE.
+*Syllabus
+Verbal Ability: English grammar, sentence completion, verbal analogies, word groups, instructions, critical reasoning and verbal deduction.
+Numerical Ability: Numerical computation, numerical estimation, numerical reasoning and data interpretation.
+Engineering Mathematics (not for all Papers)
+Technical Ability: Technical questions related to the Paper chosen
+*Third toughest after UPSC and JEE Advanced
+*GATE Paper Sections	             GATE Marks Distribution
+Subject Questions (Core Subject)	70% of the total marks.
+Engineering Mathematics	                15% of the total marks.
+General Aptitude (GA)	                15% of the total marks.
+*Section 1: Engineering Mathematics
+ Section 2: Networks, Signals and Systems
+ Section 3: Electronic Devices
+ Section 4: Analog Circuits
+ Section 5: Digital Circuits
+ Section 6: Control Systems
+ Section 7: Communications
+ Section 8: Electromagnetics
